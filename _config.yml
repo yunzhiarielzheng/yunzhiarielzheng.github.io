@@ -6,21 +6,25 @@ github_username: yunzhiarielzheng
 url: "https://yunzhiarielzheng.github.io"
 baseurl: ""
 
-theme: minima   # ← built-in GitHub Pages theme
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Comment out remote theme for now
-# remote_theme: "academicpages/academicpages.github.io"
+header_pages:
+  - research.md
+  - publications.md
+  - teaching.md
+  - clinical.md
 
 author:
   name: "Yunzhi (Ariel) Zheng"
-  avatar: "profile.jpg"
+  avatar: "profile.jpg"   # this won't auto-show in minima, but we can use it manually
   bio: "Doctoral Candidate · Marriage and Family Therapy · Florida State University"
   location: "Tallahassee, FL"
   google_scholar: "https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao"
   github: "https://github.com/yunzhiarielzheng"
+
 
 
