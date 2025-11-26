@@ -6,6 +6,8 @@ layout: home
 <img src="/images/profile.jpg" alt="Yunzhi (Ariel) Zheng" style="max-width: 160px; border-radius: 50%;">
 
 ### Yunzhi (Ariel) Zheng | 郑蕴之
+Google Scholar: https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao
+ResearhGate: https://www.researchgate.net/profile/Yunzhi-Zheng?ev=hdr_xprf
 
 Doctoral Candidate, Marriage and Family Therapy  
 Department of Human Development and Family Science  
