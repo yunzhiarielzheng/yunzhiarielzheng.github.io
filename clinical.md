@@ -5,8 +5,6 @@ permalink: /clinical/
 author_profile: true
 ---
 
-# Clinical Experience
-
 ## Therapist & Supervisor-in-Training  
 **FSU Center for Couple and Family Therapy, Tallahassee, FL**  
 *08/2023 – Present*  
