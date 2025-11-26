@@ -6,7 +6,7 @@ github_username: yunzhiarielzheng
 url: "https://yunzhiarielzheng.github.io"
 baseurl: ""
 
-remote_theme: "academicpages/academicpages"
+remote_theme: "academicpages/academicpages.github.io"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
