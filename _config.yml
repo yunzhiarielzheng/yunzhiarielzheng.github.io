@@ -1,28 +1,35 @@
 title: "Yunzhi (Ariel) Zheng"
 email: "yzheng9@fsu.edu"
 description: "Couple Relationships · Mindfulness · Dyadic Processes · Machine Learning for Psychotherapy"
-github_username: yunzhiarielzheng
+github_username: "yunzhiarielzheng"
 
 url: "https://yunzhiarielzheng.github.io"
-baseurl: ""
+baseurl: ""   # keep this empty for a user site like username.github.io
 
+# ---- Theme ----
 theme: minima
 
+# ---- Plugins supported by GitHub Pages ----
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# ---- Navigation (top menu) ----
+# These files should exist in the repo root: research.md, publications.md, teaching.md, clinical.md
 header_pages:
   - research.md
   - publications.md
   - teaching.md
   - clinical.md
 
+# ---- Author info (for reference / future use) ----
 author:
-  Yunzhi (Ariel) Zheng
-  Doctoral Candidate · Marriage and Family Therapy · Florida State University
-  Tallahassee, FL
-  https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao
+  name: "Yunzhi (Ariel) Zheng"
+  avatar: "profile.jpg"   # file at /images/profile.jpg (already working)
+  bio: "Doctoral Candidate · Marriage and Family Therapy · Florida State University"
+  location: "Tallahassee, FL"
+  google_scholar: "https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao"
+  researchgate: "https://www.researchgate.net/profile/Yunzhi-Zheng?ev=hdr_xprf"
 
 
 
