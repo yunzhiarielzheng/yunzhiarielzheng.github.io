@@ -1,8 +1,9 @@
 ---
-title: "Yunzhi (Ariel) Zheng"
+title: "Yunzhi (Ariel) Zheng | 郑蕴之"
 layout: home
-author_profile: true
 ---
+
+<img src="/images/profile.jpg" alt="Yunzhi (Ariel) Zheng" style="max-width: 160px; border-radius: 50%;">
 
 ### Yunzhi (Ariel) Zheng | 郑蕴之
 
