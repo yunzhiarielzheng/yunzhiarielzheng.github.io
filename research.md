@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 ## Research Interests
 - Mindfulness in couple relationships  
 - Couples coping with external stressors (e.g., daily hassles, chronic illness, financial strain)  
