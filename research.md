@@ -17,7 +17,9 @@ permalink: /research/
 
 ### Mindfulness and Relationship Processes
 
-c
+- **Zheng, Y., & Kimmes, J. G.** (2025, November).  
+  *Mindfulness and marital stability over time: Does general relationship quality make a difference?*  
+  National Council on Family Relations (NCFR), Baltimore, MD.
   
 - **Zheng, Y., Ledermann, T., & Kimmes, J. G.** (2025, September).  
   *Closeness moderates the relationship benefits of relationship mindfulness: A common fate approach.*  
@@ -35,6 +37,9 @@ c
 
 ### Stress, Support, & Relational Coping
 
+- **Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G.** (2025, November).  
+  *When talking too much about problems hurts the relationship: Mindfulness profiles and co-rumination in romantic relationships.*  
+  NCFR, Baltimore, MD.
 
 - **Zheng, Y., Marroquin, C. G., & Kimmes, J. G.** (2024, November).  
   *Mindfulness and stress spillover in relationships: A moderated mediation model.*  
