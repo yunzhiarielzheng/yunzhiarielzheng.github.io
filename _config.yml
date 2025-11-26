@@ -1,0 +1,28 @@
+title: "Yunzhi (Ariel) Zheng"
+email: "yzheng9@fsu.edu"
+description: "Couple Relationships · Mindfulness · Dyadic Processes · Machine Learning for Psychotherapy"
+github_username: yunzhiarielzheng
+
+url: "https://yunzhiarielzheng.github.io"
+baseurl: ""
+
+remote_theme: "academicpages/academicpages"
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+author:
+  name: "Yunzhi (Ariel) Zheng"
+  avatar: "/images/profile.jpg"
+  bio: "Doctoral Candidate · Marriage and Family Therapy · Florida State University"
+  location: "Tallahassee, FL"
+  google_scholar: "https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao"
+  github: "https://github.com/yunzhiarielzheng"
+
+nav_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - teaching.md
+
