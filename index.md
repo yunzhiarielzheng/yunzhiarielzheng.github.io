@@ -18,6 +18,6 @@ My work focuses on:
 - **Innovative methods in couple intervention research**, including:
   - Dyadic and longitudinal models (APIM, common fate models, daily diary)
   - Measurement-based care and process-oriented research in couple therapy
-  - Machine learning approaches and reinforcement learning frameworks
+  - Machine learning approaches 
 
 I am also a practicing couple and family therapist and supervisor-in-training, and my clinical work and my research continually informs one another.
