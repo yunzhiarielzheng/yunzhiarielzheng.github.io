@@ -19,12 +19,11 @@ header_pages:
   - clinical.md
 
 author:
-  name: "Yunzhi (Ariel) Zheng"
-  avatar: "profile.jpg"   # this won't auto-show in minima, but we can use it manually
-  bio: "Doctoral Candidate · Marriage and Family Therapy · Florida State University"
-  location: "Tallahassee, FL"
-  google_scholar: "https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao"
-  github: "https://github.com/yunzhiarielzheng"
+  Yunzhi (Ariel) Zheng
+  Doctoral Candidate · Marriage and Family Therapy · Florida State University
+  Tallahassee, FL
+  https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao
+  https://github.com/yunzhiarielzheng
 
 
 
