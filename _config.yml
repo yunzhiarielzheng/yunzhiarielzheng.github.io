@@ -6,11 +6,14 @@ github_username: yunzhiarielzheng
 url: "https://yunzhiarielzheng.github.io"
 baseurl: ""
 
-remote_theme: "academicpages/academicpages.github.io"
+theme: minima   # ← built-in GitHub Pages theme
+
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-sitemap
+
+# Comment out remote theme for now
+# remote_theme: "academicpages/academicpages.github.io"
 
 author:
   name: "Yunzhi (Ariel) Zheng"
@@ -19,4 +22,5 @@ author:
   location: "Tallahassee, FL"
   google_scholar: "https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao"
   github: "https://github.com/yunzhiarielzheng"
+
 
