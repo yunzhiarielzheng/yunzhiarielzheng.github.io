@@ -1,4 +1,5 @@
 ---
+title: "Yunzhi (Ariel) Zheng"
 layout: home
 author_profile: true
 ---
