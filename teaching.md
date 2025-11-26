@@ -5,7 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
+## Teaching Approach
+
+My teaching integrates **systemic thinking, cultural humility, and research–practice integration**.  
+I encourage students to bridge empirical evidence with lived experiences, and my goal is to foster learning environments that promote curiosity, reflection, and relational growth.
 
 ## Independent Instructor
 
@@ -52,8 +55,3 @@ author_profile: true
 - Building Loving and Lasting Relationships: Marriage 101 — Northwestern University (Spring 2020)
 
 ---
-
-## Teaching Approach
-
-My teaching integrates **systemic thinking, cultural humility, and research–practice integration**.  
-I encourage students to bridge empirical evidence with lived experiences, and my goal is to foster learning environments that promote curiosity, reflection, and relational growth.
