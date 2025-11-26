@@ -2,6 +2,7 @@
 layout: page
 title: Selected Clinical Experience
 permalink: /clinical/
+author_profile: true
 ---
 
 # Clinical Experience
