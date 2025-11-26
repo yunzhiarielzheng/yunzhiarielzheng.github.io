@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 ## Peer-Reviewed Journal Articles
 
 Zheng, Y. (2025). Mindfulness-based couple interventions: For whom and under what conditions do they have relationship benefits?. *Family Process, 64*(3), e70067. https://doi.org/10.1111/famp.70067  
