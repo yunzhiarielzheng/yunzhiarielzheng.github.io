@@ -12,9 +12,6 @@ I encourage students to bridge empirical evidence with lived experiences, and my
 
 ## Independent Instructor
 
-- **CHD 3243: Contexts of Adolescent Development** (Remote)  
-  Florida State University, Spring 2026  
-
 - **FAD 2230: Family Relationships: A Life Span Development Approach** (In person)  
   Florida State University, Spring 2025  
   - *Overall rating: 4.74/5*  
