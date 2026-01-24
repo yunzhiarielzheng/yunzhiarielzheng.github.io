@@ -19,7 +19,7 @@ I am a Ph.D. candidate in Marriage and Family Therapy at Florida State Universit
 My work focuses on:
 
 - **Mindfulness in couple relationships** 
-- **Couples coping with external stressors** 
+- **Couples' communication under stress** 
 - **Innovative methods in couple intervention research**, including:
   - Dyadic and longitudinal models (APIM, common fate models, daily diary)
   - Measurement-based care and process-oriented research in couple therapy
