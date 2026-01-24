@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Interests
 - Mindfulness in couple relationships  
-- Couples coping with external stressors (e.g., daily hassles, chronic illness, financial strain)  
+- Couples' communication under stress  
 - Innovative methods in couple intervention research (e.g., machine learning)
 
 ---
