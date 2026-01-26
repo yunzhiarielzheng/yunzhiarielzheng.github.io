@@ -25,7 +25,7 @@ Zheng, Y. (2022). *Couples’ communication under stress: Do general skills matt
 
 ## Manuscripts Under Review
 
-Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (revised). When problem talk helps or hurts the relationship: Mindfulness profiles moderate the effects of co-rumination in romantic relationships. *Mindfulness.*  
+Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (under review). When problem talk helps or hurts the relationship: Mindfulness profiles moderate the effects of co-rumination in romantic relationships. 
 
-Smedley, D. K., Zheng, Y., & Kimmes, J. G. (under review). “Thanks for the clarification”: Denial of responsibility is associated with better relationship quality in married couples and enhanced by relationship mindfulness. *Journal of Social and Personal Relationships.*  
+Smedley, D. K., Zheng, Y., & Kimmes, J. G. (under review). “Thanks for the clarification”: Denial of responsibility is associated with better relationship quality in married couples and enhanced by relationship mindfulness. 
 
