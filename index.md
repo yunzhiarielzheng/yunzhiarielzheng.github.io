@@ -26,3 +26,5 @@ My work focuses on:
   - Machine learning approaches 
 
 I am also a practicing couple and family therapist and supervisor-in-training, and my clinical work and my research continually informs one another.
+
+Updated: 04/08/2026
