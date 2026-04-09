@@ -7,6 +7,8 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
+Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (in press). When problem talk helps or hurts the relationship: Trait mindfulness profiles moderate the effects of co-rumination in romantic relationships. *Mindfulness. 
+
 Zheng, Y. (2025). Mindfulness-based couple interventions: For whom and under what conditions do they have relationship benefits?. *Family Process, 64*(3), e70067. https://doi.org/10.1111/famp.70067  
 
 Zheng, Y., Marroquin, C. G., & Kimmes, J. G. (2025). Mindfulness protects relationship quality from stress: Roles of trait mindfulness and relationship mindfulness. *Family Relations, 74*(2), 774–790. https://doi.org/10.1111/fare.13139  
@@ -25,7 +27,8 @@ Zheng, Y. (2022). *Couples’ communication under stress: Do general skills matt
 
 ## Manuscripts Under Review
 
-Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (under review). When problem talk helps or hurts the relationship: Mindfulness profiles moderate the effects of co-rumination in romantic relationships. 
+Sale, C., Macpherson, M. C., Zheng, Y., Richardson, M. J., & Peluso, P. R. (under review). State-Dependent dynamics of therapist-client affect in psychotherapy. https://doi.org/10.31234/osf.io/enw4t_v1
 
-Smedley, D. K., Zheng, Y., & Kimmes, J. G. (under review). “Thanks for the clarification”: Denial of responsibility is associated with better relationship quality in married couples and enhanced by relationship mindfulness. 
+Zheng, Y., & Peluso, P. R. (under review). Automated sentiment analysis in psychotherapy: Validation against human coding and dyadic prediction of therapeutic alliance. 
 
+Smedley, D. K., Zheng, Y., & Kimmes, J. G. (revision invited). “Thanks for the clarification”: Denial of responsibility is associated with better relationship quality in married couples and enhanced by relationship mindfulness. 
