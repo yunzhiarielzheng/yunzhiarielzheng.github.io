@@ -4,7 +4,7 @@ description: "Couple Relationships · Mindfulness · Dyadic Processes · Machine
 # github_username: "yunzhiarielzheng"
 
 url: "https://yunzhiarielzheng.github.io"
-baseurl: ""   # keep this empty for a user site like username.github.io
+baseurl: ""  
 
 # ---- Theme ----
 theme: minima
@@ -15,7 +15,7 @@ plugins:
   - jekyll-sitemap
 
 # ---- Navigation (top menu) ----
-# These files should exist in the repo root: research.md, publications.md, teaching.md, clinical.md
+
 header_pages:
   - research.md
   - publications.md
