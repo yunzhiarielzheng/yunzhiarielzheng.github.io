@@ -14,6 +14,18 @@ author_profile: true
 
 ## Selected Conference Presentations
 
+### Machine Learning and Psychotherapy Process
+
+- **Zheng, Y., & Peluso, P. R. ** (2026, October).  
+  *Automated sentiment analysis in psychotherapy: Validation against human coding and dyadic associations with therapeutic alliance.*  
+  North American Society for Psychotherapy Research (NASPR), New York, NY.
+
+- **Peluso, P. R., & Zheng, Y. ** (2026, October).  
+  *Beyond linear influence: Integrating automated sentiment analysis and parabolic functions into dynamical systems models of the therapeutic relationship.*  
+  North American Society for Psychotherapy Research (NASPR), New York, NY.
+
+---
+
 ### Mindfulness and Relationship Processes
 
 - **Zheng, Y., & Kimmes, J. G.** (2025, November).  
