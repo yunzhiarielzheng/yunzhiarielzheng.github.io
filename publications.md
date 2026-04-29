@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
-Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (in press). When problem talk helps or hurts the relationship: Trait mindfulness profiles moderate the effects of co-rumination in romantic relationships. *Mindfulness*. 
+Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (2026). When problem talk helps or hurts the relationship: Trait mindfulness profiles moderate the effects of co-rumination in romantic relationships. *Mindfulness*. Advance online publication. https://doi.org/10.1007/s12671-026-02834-6
 
 Zheng, Y. (2025). Mindfulness-based couple interventions: For whom and under what conditions do they have relationship benefits?. *Family Process, 64*(3), e70067. https://doi.org/10.1111/famp.70067  
 
