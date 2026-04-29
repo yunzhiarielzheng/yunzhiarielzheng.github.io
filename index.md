@@ -27,4 +27,4 @@ My work focuses on:
 
 I am also a practicing couple and family therapist and supervisor-in-training, and my clinical work and my research continually informs one another.
 
-Updated: 04/08/2026
+Updated: 04/29/2026
