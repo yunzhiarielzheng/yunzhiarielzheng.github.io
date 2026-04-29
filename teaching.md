@@ -12,6 +12,9 @@ I encourage students to bridge empirical evidence with lived experiences, and my
 
 ## Independent Instructor
 
+- **FAD 4932: Pre-Professional Development** (Online)  
+  Florida State University, Summer 2026
+  
 - **FAD 2230: Family Relationships: A Life Span Development Approach** (In person)  
   Florida State University, Spring 2025  
   - *Overall rating: 4.74/5*  
