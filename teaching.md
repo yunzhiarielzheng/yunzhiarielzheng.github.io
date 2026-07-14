@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Approach
 
-My teaching integrates **systemic thinking, cultural humility, and research–practice integration**.  
+My teaching integrates **systemic thinking, cultural responsivness, and research–practice integration**.  
 I encourage students to bridge empirical evidence with lived experiences, and my goal is to foster learning environments that promote curiosity, reflection, and relational growth.
 
 ## Independent Instructor
