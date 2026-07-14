@@ -8,13 +8,21 @@ author_profile: true
 ## Research Interests
 - Mindfulness in couple relationships  
 - Couples' communication under stress  
-- Innovative methods in couple intervention research (e.g., machine learning)
+- Innovative methods in systemic intervention research (e.g., machine learning)
 
 ---
 
 ## Selected Conference Presentations
 
-### Machine Learning and Psychotherapy Process
+### Machine Learning and Systemic Intervention 
+
+- **Zheng, Y., Hu, Y., Lowery, D. F., Wu, Q., McWey, L. M., & Peluso, P. R.** (2026, November).
+*Personalized optimal strategies for therapeutic alliance in couple therapy: Applying Q-learning in couple therapy process research.*
+Paper to be presented at the annual conference of the National Council on Family Relations (NCFR), Minneapolis, MN.
+
+- **Zheng, Y.** (2026, October).
+*Using pretrained natural language processing models in MFT research: Applied AI tools for relational and therapy process data.*
+Workshop to be presented at the Intervention Research in Systemic Family Therapy Topical Interest Network (TIN) Annual Conference, Tucson, AZ.
 
 - **Zheng, Y., & Peluso, P. R.** (2026, October).  
   *Automated sentiment analysis in psychotherapy: Validation against human coding and dyadic associations with therapeutic alliance.*  
@@ -48,6 +56,10 @@ author_profile: true
 
 ### Stress, Support, & Relational Coping
 
+- **Zheng, Y. & Peluso, P. R.** (2026, November).
+*Tracing co-rumination in couples’ conversations through language-based models: Developing a dyadic co-rumination language index.*
+Paper to be presented at the annual conference of the National Council on Family Relations (NCFR), Minneapolis, MN.
+
 - **Zheng, Y., Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G.** (2025, November).  
   *When talking too much about problems hurts the relationship: Mindfulness profiles and co-rumination in romantic relationships.*  
   NCFR, Baltimore, MD.
@@ -59,8 +71,6 @@ author_profile: true
 - **Zheng, Y., Williamson, H. C., & Neff, L. A.** (2023, May).  
   *“We” are in this together: Problem severity and the benefits of we-talk among lower and higher SES couples.*  
   IARR Mini-Conference, Phoenix, AZ.
-
-
 
 ---
 
