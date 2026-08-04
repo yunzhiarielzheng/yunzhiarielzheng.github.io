@@ -14,17 +14,16 @@ Doctoral Candidate, Marriage and Family Therapy
 Department of Human Development and Family Science  
 Florida State University  
 
-I am a Ph.D. candidate in Marriage and Family Therapy at Florida State University. My research examines how couples navigate difficult times together, especially the role of mindfulness in couple relationships. I am also interested in applying innovative approaches in couple intervention research for new insights.
+I am a Ph.D. candidate in Marriage and Family Therapy at Florida State University. My research examines how couples navigate difficult times together, especially the role of mindfulness in couple relationships. I am also interested in applying computational approaches in couple intervention research for new insights.
 
 My work focuses on:
 
 - **Mindfulness in couple relationships** 
-- **Couples' communication under stress** 
-- **Innovative methods in couple intervention research**, including:
-  - Dyadic and longitudinal models (APIM, common fate models, daily diary)
-  - Measurement-based care and process-oriented research in couple therapy
-  - Machine learning approaches 
+- **Couples' communication and coping under stress** 
+- **Computational methods in couple intervention research**, including:
+  - Explainable AI-Assisted Measurement of Relational and Intervention Processes
+  - Responsible AI for Personalized Clinical Decision Support 
 
 I am also a practicing couple and family therapist and supervisor-in-training, and my clinical work and my research continually informs one another.
 
-Updated: 07/14/2026
+Updated: 08/04/2026
