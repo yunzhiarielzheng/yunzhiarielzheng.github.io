@@ -24,7 +24,7 @@ My work focuses on:
   - Explainable AI-Assisted Measurement of Relational and Intervention Processes
   - Responsible AI for Personalized Clinical Decision Support 
 
-I am also a practicing couple and family therapist and supervisor-in-training, and my clinical work and my research continually informs one another.
+I am also a practicing couple and family therapist and clinical supervisor-in-training, and my clinical work and my research continually informs one another.
 
 Updated: 08/04/2026
 
