@@ -4,6 +4,7 @@ title: Selected Clinical Experience
 permalink: /clinical/
 author_profile: true
 ---
+**Psychology Today:** [📓](https://www.psychologytoday.com/profile/1586895)  
 
 ## Therapist & Supervisor-in-Training  
 **FSU Center for Couple and Family Therapy, Tallahassee, FL**  
