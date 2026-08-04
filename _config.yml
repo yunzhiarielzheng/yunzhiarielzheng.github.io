@@ -17,7 +17,7 @@ plugins:
 # ---- Navigation (top menu) ----
 
 header_pages:
-  - research.md
+  - presentations.md
   - publications.md
   - teaching.md
   - clinical.md
