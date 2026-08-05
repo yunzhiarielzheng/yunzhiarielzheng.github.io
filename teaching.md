@@ -14,12 +14,12 @@ I encourage students to bridge empirical evidence with lived experiences, and my
 
 - **FAD 4932: Pre-Professional Development** (Online)  
   Florida State University, Summer 2026
-  
+  - Overall instructor rating: 4.93/5 (Department Average: 4.60; University Average: 4.50)
+
 - **FAD 2230: Family Relationships: A Life Span Development Approach** (In person)  
   Florida State University, Spring 2025  
-  - *Overall rating: 4.74/5*  
-  - (Department avg: 4.58; University avg: 4.41)
-
+  - Overall instructor rating: 4.74/5 (Department Average: 4.58; University Average: 4.41)
+    
 ---
 
 ## Workshops
