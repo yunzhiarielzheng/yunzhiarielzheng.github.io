@@ -34,7 +34,7 @@ Updated: 08/04/2026
   
   Eligibility: Both partners need to be at least 18 years old, primarily speak English at home, and in a committed romantic relationship for at least 6 months.
   
-  Eligibility Survey link: https://fsu.qualtrics.com/jfe/form/SV_cLVWvzdmTvpAMU6
+  [Eligibility Survey link](https://fsu.qualtrics.com/jfe/form/SV_cLVWvzdmTvpAMU6)
   
   <img width="732" height="951" alt="Screenshot 2026-08-04 at 6 43 47 PM" src="https://github.com/user-attachments/assets/1bc86b0d-424d-44b5-b0c7-8fe42454fac5" />
 
