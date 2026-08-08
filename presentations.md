@@ -36,7 +36,7 @@ author_profile: true
   *Mindfulness and marital stability over time: Does general relationship quality make a difference?* Paper presented at the annual conference of the National Council on Family Relations (NCFR), Baltimore, MD.
   
 - **Zheng, Y.**, Ledermann, T., & Kimmes, J. G. (2025, September).  
-  *Closeness moderates the relationship benefits of relationship mindfulness: A common fate approach.* Paper presented at the Intervention Research in Systemic Family Therapy Conference, Columbus, OH.
+  *Closeness moderates the relationship benefits of relationship mindfulness: A common fate approach.* Paper presented at the Intervention Research in Systemic Family Therapy Topical Interest Network (TIN) Annual Conference, Columbus, OH.
   
 - **Zheng, Y.** (2024, November). 
   *Mindfulness-Based couple interventions: For whom and under what conditions do they have relationship benefits?*  Poster presented at the AAMFT Intervention Research in Systemic Family Therapy Conference, Orlando, FL.
