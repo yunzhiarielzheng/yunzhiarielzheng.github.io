@@ -28,6 +28,8 @@ I am also a practicing couple and family therapist and clinical supervisor-in-tr
 Updated: 08/04/2026
 
 **News:**
+- 08/07/2026: Our work ([When Problem Talk Helps or Hurts the Relationship: Trait Mindfulness Profiles Moderate the Effects of Co-Rumination in Romantic Relationships](https://link.springer.com/article/10.1007/s12671-026-02834-6)) is covered by [PsyPost](https://www.psypost.org/your-mindfulness-might-determine-whether-venting-helps-or-hurts-your-romantic-relationship/).
+
 - 08/04/2026: I'm recruiting couples for my dissertation study about how partners talk about stress and support one another during conversations!
     
   Participation involves: one-time in-person lab visit at FSU; questionnaires + two recorded conversations with your partner; about 90-120 minutes total. Participants will have the option to be compensated either through course extra credit or $20 gift card per person.
