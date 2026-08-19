@@ -26,8 +26,7 @@ Kimmes, J. G., **Zheng, Y.**, Morris, K. L., Marroquin, C. G., Rudaz, M., & Smed
 
 ---
 
-## Manuscripts Under Review
+## Others
 
-Sale, C., Macpherson, M. C., **Zheng, Y.**, Richardson, M. J., & Peluso, P. R. (under review). State-Dependent dynamics of therapist-client affect in psychotherapy. https://doi.org/10.31234/osf.io/enw4t_v1
-
-**Zheng, Y.**, & Peluso, P. R. (under review). Automated sentiment analysis in psychotherapy: Validation against human coding and dyadic prediction of therapeutic alliance. 
+Williamson, H. C., **Zheng, Y.**, & Neff, L. A. (2021). Blame the pandemic: Stress spillover in the recovery from the COVID-19 pandemic. NCFR Report: Family Focus, FF88, F6-F7. 
+ 
