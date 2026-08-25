@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Journal Articles
+**Zheng, Y.**, & Peluso, P. R. (2026). Automated sentiment analysis in psychotherapy: Convergence with human-coded affective behavior and dyadic associations with early therapeutic alliance. *Psychotherapy Research*. Advance online publication. https://doi.org/10.1080/10503307.2026.2724951 
+
 Smedley, D. K., **Zheng, Y.**, & Kimmes, J. G. (2026). “Thanks for the clarification”: Denial of responsibility is associated with better relationship quality in married couples and enhanced by relationship mindfulness. *Journal of Social and Personal Relationships*. Advance online publication. https://doi.org/10.1177/02654075261472931
 
 **Zheng, Y.**, Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (2026). When problem talk helps or hurts the relationship: Trait mindfulness profiles moderate the effects of co-rumination in romantic relationships. *Mindfulness*. Advance online publication. https://doi.org/10.1007/s12671-026-02834-6
