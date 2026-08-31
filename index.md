@@ -25,9 +25,11 @@ My work focuses on:
 
 I am also a practicing couple and family therapist and clinical supervisor-in-training, and my clinical work and my research continually informs one another.
 
-Updated: 08/08/2026
+Updated: 08/31/2026
 
 **News:**
+- 08/31/2026: I am incredibly grateful to the Mental Research Institute for awarding my dissertation project the Doctoral Dissertation Grant!
+
 - 08/07/2026: Our work ([When Problem Talk Helps or Hurts the Relationship: Trait Mindfulness Profiles Moderate the Effects of Co-Rumination in Romantic Relationships](https://link.springer.com/article/10.1007/s12671-026-02834-6)) is covered by [PsyPost](https://www.psypost.org/your-mindfulness-might-determine-whether-venting-helps-or-hurts-your-romantic-relationship/).
 
 - 08/04/2026: I'm recruiting couples for my dissertation study about how partners talk about stress and support one another during conversations!
