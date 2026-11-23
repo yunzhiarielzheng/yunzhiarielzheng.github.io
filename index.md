@@ -3,7 +3,7 @@ title: "Yunzhi (Ariel) Zheng | 郑蕴之"
 layout: home
 ---
 
-<img src="/images/profile.jpg" alt="Yunzhi (Ariel) Zheng" style="max-width: 160px; border-radius: 50%;">
+<img src="/images/Yunzhi Zheng.png" alt="Yunzhi (Ariel) Zheng" style="max-width: 160px; border-radius: 50%;">
 
 **Email:** [yzheng9@fsu.edu](mailto:yzheng9@fsu.edu)  
 **Google Scholar:** [📚](https://scholar.google.com/citations?user=Jl9si-AAAAAJ&hl=en&oi=ao)  
@@ -13,13 +13,14 @@ Doctoral Candidate, Marriage and Family Therapy
 Department of Human Development and Family Science  
 Florida State University  
 
-I am a Ph.D. candidate in Marriage and Family Therapy at Florida State University. My research examines how couples navigate difficult times together, especially the role of mindfulness in couple relationships. I am also interested in applying computational approaches in couple intervention research for new insights.
+I am a Ph.D. candidate in Marriage and Family Therapy at Florida State University, expect to graduate in May 2027. 
 
-My work focuses on:
+Romantic relationships are an important source of support when people face difficult life circumstances, yet turning to a partner under stress does not always help. The central question guiding my research is: **Why does turning to a partner during difficult times help some couples cope and strengthen their relationships, but become ineffective or even harmful for others?** 
 
-- **Understanding Relational Processes in Couples’ Coping with Stress** 
-- **Computational Methods (e.g., machine learning) for Measuring Relational Processes**
-- **Personalized Clinical Decision Support in Systemic Interventions**
+Grounded in systemic perspectives, I examine how partners communicate and cope under stress, the individual, relational, and contextual factors that shape these processes, and their implications for relationship and psychological well-being. To study these processes as they unfold in couples’ conversations and systemic therapy, I use computational methods, including natural language processing (NLP) and machine learning (ML). My program of research has three connected lines: 
+- **(1) understanding relational processes that help or hinder couples as they cope with stress;**
+- **(2) developing interpretable and scalable computational approaches for measuring such relational processes;** 
+- **(3) advancing personalized clinical decision support in systemic therapy.**
   
 I am also a practicing couple and family therapist and clinical supervisor-in-training, and my clinical work and my research continually informs one another.
 
