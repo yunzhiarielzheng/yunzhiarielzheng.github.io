@@ -17,12 +17,10 @@ I am a Ph.D. candidate in Marriage and Family Therapy at Florida State Universit
 
 My work focuses on:
 
-- **Mindfulness in couple relationships** 
-- **Couples' communication and coping under stress** 
-- **Computational methods in couple intervention research**, including:
-  - Explainable AI-Assisted Measurement of Relational and Intervention Processes
-  - Responsible AI for Personalized Clinical Decision Support 
-
+- **Understanding Relational Processes in Couples’ Coping with Stress** 
+- **Computational Methods (e.g., machine learning) for Measuring Relational Processes**
+- **Personalized Clinical Decision Support in Systemic Interventions**
+  
 I am also a practicing couple and family therapist and clinical supervisor-in-training, and my clinical work and my research continually informs one another.
 
 Updated: 10/29/2026
@@ -30,7 +28,7 @@ Updated: 10/29/2026
 **News:**
 - 10/28/2026: I am very excited that our Q-learning paper won the Best Paper Award in Family Therapy Section by NCFR!
 
-- 08/31/2026: I am incredibly grateful to the [Mental Research Institute] (https://mri.org/blog/tracing-co-rumination-in-couples-conversations-through-language-based-models-understanding-the-costs-and-benefits-of-co-rumination-at-scale) for awarding my dissertation project the Doctoral Dissertation Grant!
+- 08/31/2026: I am incredibly grateful to the ([Mental Research Institute] (https://mri.org/blog/tracing-co-rumination-in-couples-conversations-through-language-based-models-understanding-the-costs-and-benefits-of-co-rumination-at-scale)) for awarding my dissertation project the Doctoral Dissertation Grant!
 
 - 08/07/2026: Our work ([When Problem Talk Helps or Hurts the Relationship: Trait Mindfulness Profiles Moderate the Effects of Co-Rumination in Romantic Relationships](https://link.springer.com/article/10.1007/s12671-026-02834-6)) is covered by [PsyPost](https://www.psypost.org/your-mindfulness-might-determine-whether-venting-helps-or-hurts-your-romantic-relationship/).
 
