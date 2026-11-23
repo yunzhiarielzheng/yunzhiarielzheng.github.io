@@ -17,16 +17,16 @@ author_profile: true
 ### Machine Learning and Systemic Intervention 
 
 - **Zheng, Y.**, Hu, Y., Lowery, D. F., Wu, Q., McWey, L. M., & Peluso, P. R. (2026, November).
-*Personalized optimal strategies for therapeutic alliance in couple therapy: Applying Q-learning in couple therapy process research.* Paper to be presented at the annual conference of the National Council on Family Relations (NCFR), Minneapolis, MN.
+*Personalized optimal strategies for therapeutic alliance in couple therapy: Applying Q-learning in couple therapy process research.* Paper presented at the annual conference of the National Council on Family Relations (NCFR), Minneapolis, MN.
 
 - **Zheng, Y.** (2026, October).
-*Using pretrained natural language processing models in MFT research: Applied AI tools for relational and therapy process data.* Workshop to be presented at the Intervention Research in Systemic Family Therapy Topical Interest Network (TIN) Annual Conference, Tucson, AZ.
+*Using pretrained natural language processing models in MFT research: Applied AI tools for relational and therapy process data.* Workshop presented at the Intervention Research in Systemic Family Therapy Topical Interest Network (TIN) Annual Conference, Tucson, AZ.
 
 - **Zheng, Y.**, & Peluso, P. R. (2026, October).  
-  *Automated sentiment analysis in psychotherapy: Validation against human coding and dyadic associations with therapeutic alliance.* Paper to be presented at North American Society for Psychotherapy Research (NASPR), New York, NY.
+  *Automated sentiment analysis in psychotherapy: Validation against human coding and dyadic associations with therapeutic alliance.* Paper presented at North American Society for Psychotherapy Research (NASPR), New York, NY.
 
 - Peluso, P. R., & **Zheng, Y.** (2026, October).  
-  *Beyond linear influence: Integrating automated sentiment analysis and parabolic functions into dynamical systems models of the therapeutic relationship.* Paper to be presented at North American Society for Psychotherapy Research (NASPR), New York, NY.
+  *Beyond linear influence: Integrating automated sentiment analysis and parabolic functions into dynamical systems models of the therapeutic relationship.* Paper presented at North American Society for Psychotherapy Research (NASPR), New York, NY.
 
 ---
 
@@ -49,7 +49,7 @@ author_profile: true
 ### Stress, Support, & Relational Coping
 
 - **Zheng, Y.** & Peluso, P. R. (2026, November).
-*Tracing co-rumination in couples’ conversations through language-based models: Developing a dyadic co-rumination language index.* Paper to be presented at the annual conference of the National Council on Family Relations (NCFR), Minneapolis, MN.
+*Tracing co-rumination in couples’ conversations through language-based models: Developing a dyadic co-rumination language index.* Paper presented at the annual conference of the National Council on Family Relations (NCFR), Minneapolis, MN.
 
 - **Zheng, Y.**, Tudder, A., DiGiovanni, A. M., Peters, B. J., & Kimmes, J. G. (2025, November).  
   *When talking too much about problems hurts the relationship: Mindfulness profiles and co-rumination in romantic relationships.* Paper presented at the annual conference of the National Council on Family Relations (NCFR), Baltimore, MD.
