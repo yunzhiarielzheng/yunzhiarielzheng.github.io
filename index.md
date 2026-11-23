@@ -28,7 +28,7 @@ Updated: 10/29/2026
 **News:**
 - 10/28/2026: I am very excited that our Q-learning paper won the Best Paper Award in Family Therapy Section by NCFR!
 
-- 08/31/2026: I am incredibly grateful to the ([Mental Research Institute] (https://mri.org/blog/tracing-co-rumination-in-couples-conversations-through-language-based-models-understanding-the-costs-and-benefits-of-co-rumination-at-scale)) for awarding my dissertation project the Doctoral Dissertation Grant!
+- 08/31/2026: I am incredibly grateful to the ([Mental Research Institute](https://mri.org/blog/tracing-co-rumination-in-couples-conversations-through-language-based-models-understanding-the-costs-and-benefits-of-co-rumination-at-scale)) for awarding my dissertation project the Doctoral Dissertation Grant!
 
 - 08/07/2026: Our work ([When Problem Talk Helps or Hurts the Relationship: Trait Mindfulness Profiles Moderate the Effects of Co-Rumination in Romantic Relationships](https://link.springer.com/article/10.1007/s12671-026-02834-6)) is covered by [PsyPost](https://www.psypost.org/your-mindfulness-might-determine-whether-venting-helps-or-hurts-your-romantic-relationship/).
 
