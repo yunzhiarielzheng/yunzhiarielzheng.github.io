@@ -5,10 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Research Interests
-- Mindfulness in couple relationships  
-- Couples' communication under stress  
-- Innovative methods in systemic intervention research (e.g., machine learning)
+## Research Interests 
+- Understanding Relational Processes in Couples’ Coping with Stress
+- Computational Methods (e.g., machine learning) for Measuring Relational Processes
+- Personalized Clinical Decision Support in Systemic Interventions
 
 ---
 
